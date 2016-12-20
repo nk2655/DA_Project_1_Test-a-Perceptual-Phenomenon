@@ -1,7 +1,7 @@
 # Test-a-Perceptual-Phenomenon
 
 ### Description of Project  
-• Used descriptive statistics to provide an intuition about the data of the Stroop effect, and inferential statistics to drew a conclusion based on the results.  
+• Used descriptive statistics and a statistical test to analyze the Stroop effect, a classic result of experimental psychology. Gave you a good intuition for the data and use statistical inference to draw a conclusion based on the results.  
 • Technologies Used: numpy, pandas, matplotlib  
   
 ### Run Instruction  
